@@ -1,0 +1,18 @@
+[project]
+name = "debugging-agentic-chatbot-using-langgraph-studio"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "arxiv>=2.4.0",
+    "ipykernel>=7.1.0",
+    "langchain>=1.2.3",
+    "langchain-community>=0.4.1",
+    "langchain-core>=1.2.7",
+    "langchain-groq>=1.1.1",
+    "langgraph-cli[inmem,inmen]>=0.4.11",
+    "pydantic>=1.10.0",
+    "python-dotenv>=1.2.1",
+    "wikipedia>=1.4.0",
+]

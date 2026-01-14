@@ -1,0 +1,10 @@
+langchain
+langchain-groq
+langchain-community
+langchain-core
+pydantic>=1.10.0
+ipykernel
+python-dotenv
+arxiv
+wikipedia
+langgraph-cli[inmem]
