@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,50&height=240&section=header&text=Debugging%20CHATBOT%20WITH%20LangGraph%20Studio(3.O)&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%">
+</picture>
+<br/>
+
 <div align="center">
 
 <a href="https://github.com/sahilalaknur21/Debugging-Agentic-Chatbot">
@@ -139,3 +143,4 @@ Action: Use the "Interrupt" button to manually stop the agent.
 <img src="https://www.google.com/url?sa=E&source=gmail&q=https://capsule-render.vercel.app/api?type=waving%26color=gradient%26customColorList=10,20,50%26height=120%26section=footer" width="100%">
 
 </div>
+
